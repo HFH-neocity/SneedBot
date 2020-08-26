@@ -1,3 +1,4 @@
+#made only to read message history and write messages, simple bot
 import discord
 from discord.ext import commands
 #prefix
