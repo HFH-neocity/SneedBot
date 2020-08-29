@@ -28,3 +28,12 @@ async def jelq(ctx):
 @client.command()
 async def sneedcat(ctx):
     await ctx.send("https://tenor.com/view/sneed-cat-based-nae-nae-dancing-dance-gif-16884764")
+async def video(ctx):
+    await ctx.send("https://www.youtube.com/watch?v=zc3vAdsiPV4")
+@client.command()
+async def janniepost(ctx):
+    await ctx.send("Okay. I've fucking had it with this shit. We haven't had a good Simpsons thread in ages and it's time we did something about it. I beg you: mods, janitors and anyone with the power to change this situation. Put pressure on Hiro. Nothing short of a word filter on 'Sneed' will solve this situation.")
+@client.command()
+async def blue(ctx):
+    await ctx.send("YO LISTEN UP HERE'S THE STORY ABOUT A LITTLE GUY THAT LIVES IN THE BASED WORLD AND ALL DAY AND ALL NIGHT AND EVERY THREAD HE SEES IS JUST BASED LIKE HIM INSIDE AND OUTSIDE BASED HIS BOARD, WITH A BASED LITTLE BANEPOST AND A BASED SNEED THREAD AND EVERYTHING IS BASED FOR HIM AND HIMSELF AND EVERY ANON AROUND CUZ HE AINT GOT NO JANNY TO LISTEN TO... I'M BASED IF I WAS CRINGE I WOULD DIE IF I WAS CRINGE I WOULD DIE IF I WAS CRINGE I WOULD DIE IF I WAS CRINGE I WOULD DIE")
+client.run("bot token")   
